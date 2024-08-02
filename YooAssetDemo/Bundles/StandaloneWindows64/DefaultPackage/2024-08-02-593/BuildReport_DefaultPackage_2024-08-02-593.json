@@ -1,0 +1,129 @@
+{
+    "Summary": {
+        "YooVersion": "2.1.2",
+        "UnityVersion": "2021.3.21f1c1",
+        "BuildDate": "2024/8/2 9:54:01",
+        "BuildSeconds": 2,
+        "BuildTarget": 19,
+        "BuildMode": 1,
+        "BuildPipeline": "BuiltinBuildPipeline",
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "2024-08-02-593",
+        "UniqueBundleName": false,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": true,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "EnableSharePackRule": true,
+        "EncryptionClassName": "null",
+        "FileNameStyle": 1,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 9,
+        "MainAssetTotalCount": 3,
+        "AllBundleTotalCount": 4,
+        "AllBundleTotalSize": 1856707,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "Alien_Fighter",
+            "AssetPath": "Assets/Prefabs/Alien_Fighter.prefab",
+            "AssetGUID": "450a9c83ca8c846489b47de1e399289a",
+            "AssetTags": [],
+            "MainBundleName": "assets_prefabs.bundle",
+            "MainBundleSize": 2842,
+            "DependAssets": [
+                "Assets/Model/Alien_Fighter/Alien_Fighter.mat",
+                "Assets/Model/Alien_Fighter/Alien_Fighter-Specular.jpg",
+                "Assets/Model/Alien_Fighter/Alien_Fighter-Bump.jpg",
+                "Assets/Model/Alien_Fighter/Alien_Fighter-Diffuse.jpg",
+                "Assets/Model/Alien_Fighter/Alien_Fighter-Lights.jpg",
+                "Assets/Model/Alien_Fighter/Alien_Fighter.FBX"
+            ]
+        },
+        {
+            "Address": "HOSN",
+            "AssetPath": "Assets/Audios/HOSN.wav",
+            "AssetGUID": "d4bec011340586546a46be4034680469",
+            "AssetTags": [],
+            "MainBundleName": "assets_audios.bundle",
+            "MainBundleSize": 202199,
+            "DependAssets": []
+        },
+        {
+            "Address": "TestLoad",
+            "AssetPath": "Assets/Scenes/Scenes/TestLoad.unity",
+            "AssetGUID": "24eef3994d9acf04097a7f6c14435d2e",
+            "AssetTags": [],
+            "MainBundleName": "assets_scenes_scenes.bundle",
+            "MainBundleSize": 120326,
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_prefabs.bundle",
+            "FileName": "assets_prefabs.bundle",
+            "FileHash": "d406d8e1a91b84f85de7aed882afc296",
+            "FileCRC": "2e55806d",
+            "FileSize": 2842,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_model_alien_fighter.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Prefabs/Alien_Fighter.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_audios.bundle",
+            "FileName": "assets_audios.bundle",
+            "FileHash": "0da0229c4a37d967a6d70d501859aa6c",
+            "FileCRC": "4ab22c89",
+            "FileSize": 202199,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Audios/HOSN.wav"
+            ]
+        },
+        {
+            "BundleName": "assets_scenes_scenes.bundle",
+            "FileName": "assets_scenes_scenes.bundle",
+            "FileHash": "76e181ddd33897ea75416766b35bcb49",
+            "FileCRC": "2276645e",
+            "FileSize": 120326,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Scenes/Scenes/TestLoad.unity"
+            ]
+        },
+        {
+            "BundleName": "share_assets_model_alien_fighter.bundle",
+            "FileName": "share_assets_model_alien_fighter.bundle",
+            "FileHash": "4120a844f6de55f60cc1db3d24958867",
+            "FileCRC": "a45fb1ac",
+            "FileSize": 1531340,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Model/Alien_Fighter/Alien_Fighter.mat",
+                "Assets/Model/Alien_Fighter/Alien_Fighter-Specular.jpg",
+                "Assets/Model/Alien_Fighter/Alien_Fighter-Bump.jpg",
+                "Assets/Model/Alien_Fighter/Alien_Fighter-Diffuse.jpg",
+                "Assets/Model/Alien_Fighter/Alien_Fighter-Lights.jpg",
+                "Assets/Model/Alien_Fighter/Alien_Fighter.FBX"
+            ]
+        }
+    ],
+    "IndependAssets": []
+}

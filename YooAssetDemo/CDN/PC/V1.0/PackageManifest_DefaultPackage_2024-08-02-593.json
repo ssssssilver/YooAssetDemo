@@ -1,0 +1,77 @@
+{
+    "FileVersion": "2.0.0",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 1,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2024-08-02-593",
+    "AssetList": [
+        {
+            "Address": "Alien_Fighter",
+            "AssetPath": "Assets/Prefabs/Alien_Fighter.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "HOSN",
+            "AssetPath": "Assets/Audios/HOSN.wav",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "TestLoad",
+            "AssetPath": "Assets/Scenes/Scenes/TestLoad.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_prefabs.bundle",
+            "UnityCRC": 3679071182,
+            "FileHash": "d406d8e1a91b84f85de7aed882afc296",
+            "FileCRC": "2e55806d",
+            "FileSize": 2842,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                3
+            ]
+        },
+        {
+            "BundleName": "assets_audios.bundle",
+            "UnityCRC": 1439830879,
+            "FileHash": "0da0229c4a37d967a6d70d501859aa6c",
+            "FileCRC": "4ab22c89",
+            "FileSize": 202199,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_scenes_scenes.bundle",
+            "UnityCRC": 345812596,
+            "FileHash": "76e181ddd33897ea75416766b35bcb49",
+            "FileCRC": "2276645e",
+            "FileSize": 120326,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "share_assets_model_alien_fighter.bundle",
+            "UnityCRC": 1144687252,
+            "FileHash": "4120a844f6de55f60cc1db3d24958867",
+            "FileCRC": "a45fb1ac",
+            "FileSize": 1531340,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        }
+    ]
+}

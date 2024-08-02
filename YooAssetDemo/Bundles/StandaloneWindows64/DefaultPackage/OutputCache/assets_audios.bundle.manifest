@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1439830879
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b36edbdb23fb9252e31e314b46f7fe7c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Audios/HOSN.wav
+Dependencies: []

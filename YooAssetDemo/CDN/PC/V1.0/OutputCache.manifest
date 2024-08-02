@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1599413753
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets_prefabs.bundle
+      Dependencies:
+        Dependency_0: share_assets_model_alien_fighter.bundle
+    Info_1:
+      Name: assets_audios.bundle
+      Dependencies: {}
+    Info_2:
+      Name: assets_scenes_scenes.bundle
+      Dependencies: {}
+    Info_3:
+      Name: share_assets_model_alien_fighter.bundle
+      Dependencies: {}

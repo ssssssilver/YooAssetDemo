@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3679071182
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a85d87a03230f4648e1fe44c97713195
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 71fae6ce9612b55492988b7c6597434c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Alien_Fighter.prefab
+Dependencies:
+- C:/Project/YooAssetDemo/Bundles/StandaloneWindows64/DefaultPackage/OutputCache/share_assets_model_alien_fighter.bundle
